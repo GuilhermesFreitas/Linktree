@@ -25,7 +25,7 @@ export default function Home() {
             />
             <SocialIcon
               href="https://www.linkedin.com/in/guilherme-silva-freitasea/"
-              src="/Icons/Linkedinlogo.svg"
+              src="/Icons/LinkedinLogo.svg"
               alt="LinkedIn"
             />
             <SocialIcon

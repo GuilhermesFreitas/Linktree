@@ -1,8 +1,5 @@
-import { NextConfig } from 'next';
-
-const nextConfig: NextConfig = {
+// next.config.js
+module.exports = {
   reactStrictMode: true,
-  basePath: '/subfolder',  // caso precise configurar um prefixo de pasta
+  // Outras configurações aqui
 };
-
-export default nextConfig;

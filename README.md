@@ -22,4 +22,4 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ✨ Demonstração
 
 Confira a demonstração do projeto abaixo:
-https://linktree-virid-nu.vercel.app/
+https://guilhermefreitas.site/

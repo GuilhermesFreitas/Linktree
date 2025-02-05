@@ -48,7 +48,7 @@ body {
   }
 }
 
-.digitacao  {
+.typing-text {
   border-right: 4px solid #3730a3; 
   width: 20ch;
   animation: blinkMarker 0.5s step-end infinite alternate, typing 6s infinite steps(20);

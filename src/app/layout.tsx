@@ -1,30 +1,33 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono, Raleway } from "next/font/google";  // Adicione a importação do Raleway
+import { Raleway } from "next/font/google";
 import "./globals.css";
 
-// Defina a fonte Geist
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
-
-// Defina a fonte Geist Mono
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
-
-//  Raleway
+// Raleway
 const raleway = Raleway({
-  variable: "--font-family", 
+  variable: "--font-raleway", 
   subsets: ["latin"],
-  weight: "400",  
-  style: "normal", 
+  weight: "400",
+  style: "normal",
 });
 
 export const metadata: Metadata = {
-  title: "Pagina de links",
-  description: "Pagina de links por Guilherme freitas",
+  title: "Página de Links",
+  description: "Página de links por Guilherme Freitas",
+  openGraph: {
+    title: "Página de Links",
+    description: "Página de links por Guilherme Freitas",
+  },
+  robots: {
+    index: true,
+    follow: true,
+    nocache: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      nocache: true,
+      noimageindex: true,
+    },
+  },
 };
 
 export default function RootLayout({
@@ -34,9 +37,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="pt-BR">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} ${raleway.variable} antialiased`}  // Adicione a variável da fonte Raleway
-      >
+      <body className={`${raleway.className} bg-bg antialiased`}>
         {children}
       </body>
     </html>

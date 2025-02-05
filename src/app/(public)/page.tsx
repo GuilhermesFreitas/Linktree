@@ -1,14 +1,14 @@
 
-import SocialIcon from '../components/SocialIcon'; 
+import SocialIcon from '@/components/SocialIcon'; 
 
 export default function Home() {
   return (
-    <div className="bg-bg min-h-screen flex flex-col">
+    <div className="min-h-screen flex flex-col">
       <div className="flex-grow flex flex-col items-center justify-center">
         <h1 className="text-4xl md:text-5xl sm:text-6xl lg:text-7xl font-bold mb-4 text-color-font-primary animate-fade-right animate-once animate-duration-[950ms] animate-ease-in">
           Guilherme <strong className='bg-gradient bg-gradient-color text-transparent bg-clip-text' >Freitas</strong>
         </h1>
-        <p className="digitacao text-center text-color-font-p text-lg sm:text-2xl lg:text-3xl mb-[3rem]">
+        <p className="typing-text text-center text-color-font-p text-lg sm:text-2xl lg:text-3xl mb-[3rem]">
           Minhas redes <strong className='bg-gradient bg-gradient-color text-transparent bg-clip-text' >sociais</strong>
         </p>
         <main>

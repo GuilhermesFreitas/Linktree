@@ -1,6 +1,4 @@
-Linktree 
-
-
+Linktree Personalizado
 
 ✨ Sobre o Projeto
 
@@ -69,7 +67,7 @@ A aplicação estará disponível em http://localhost:3000.
 
 LinkedIn: Guilhermesfreitass
 
-Email: Guilhermefreitasea@gmail.com
+Email: guilhermefreitasea@gmail.com
 
 Espero que essa documentação facilite a compreensão e uso do projeto. Qualquer sugestão de melhoria, estou à disposição! 🚀
 

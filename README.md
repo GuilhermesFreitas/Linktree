@@ -28,6 +28,6 @@ Recentemente, implementei melhorias na usabilidade e no design, adicionando **an
 
 ## 📲 Demonstração
 
-Acesse o projeto online: **[Guilherme Freitas - Linktree](https://guilhermefreitas.net)**
+Acesse o projeto online: **[Guilherme Freitas - Linktree](https://guilhermefreitas.site/)**
 
 ---

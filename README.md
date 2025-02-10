@@ -1,73 +1,33 @@
-Linktree Personalizado
+# 🌐 Linktree Personalizado
 
-✨ Sobre o Projeto
+## ✨ Sobre o Projeto
 
-Este projeto é uma página de links personalizada, projetada para reunir todas as minhas redes sociais em um único lugar. A página oferece uma navegação simples e eficiente, além de ser responsiva, adaptando-se perfeitamente a dispositivos móveis, tablets e desktops.
+Este projeto é uma **página de links personalizada**, criada para reunir todas as minhas redes sociais em um único lugar. O design é **simples, eficiente e responsivo**, garantindo uma ótima experiência em **dispositivos móveis, tablets e desktops**.
 
-Recentemente, fiz uma atualização no projeto para melhorar a usabilidade e o design, implementando animações e utilizando o framework Next.js com Tailwind CSS.
+Recentemente, implementei melhorias na usabilidade e no design, adicionando **animações dinâmicas** e utilizando **Next.js** com **Tailwind CSS** para otimizar o desenvolvimento.
 
-🛠️ Tecnologias Utilizadas
+---
 
-Next.js - Framework para React.js.
+## 🛠️ Tecnologias Utilizadas
 
-Tailwind CSS - Framework CSS utilitário para estilização.
+- **Next.js** - Framework para React.js.
+- **Tailwind CSS** - Estilização moderna e otimizada.
+- **tailwindcss-animated** - Plugin para animações fluidas.
+- **HTML5** - Estrutura semântica da página.
+- **CSS3** - Estilos avançados.
 
-tailwindcss-animated - Plugin para adicionar animações ao projeto.
+---
 
-HTML5 - Estrutura básica da página.
+## ⚡ Funcionalidades
 
-CSS3 - Estilização avançada da página.
+✅ **Totalmente Responsivo** – Adaptado para **mobile, tablet e desktop**.  
+✨ **Animações Visuais** – Efeitos interativos com **tailwindcss-animated**.  
+🔗 **Centralização de Links** – Facilita o acesso a todas as redes sociais.  
 
-🛠️ Funcionalidades
+---
 
-✅ Responsividade: Adaptada para dispositivos móveis, tablets e desktops.
+## 📲 Demonstração
 
-✨ Animações: Efeitos visuais e animação de digitação com o plugin tailwindcss-animated.
+Acesse o projeto online: **[Guilherme Freitas - Linktree](https://guilhermefreitas.net)**
 
-🔗 Página de Links (Linktree): Centraliza links para todas as redes sociais.
-
-📲 Demonstração
-
-Acesse a página em funcionamento: Guilherme Freitas - Linktree
-
-🛠️ Como Executar o Projeto
-
-⚡ Pré-requisitos
-
-Certifique-se de ter instalado em sua máquina:
-
-Node.js
-
-Git
-
-🛠️ Instalação
-
-Clone o repositório:
-
-git clone https://github.com/GuilhermesFreitas/Linktree.git
-
-Navegue até o diretório do projeto:
-
-cd Linktree
-
-Instale as dependências:
-
-npm install
-
-🚀 Execução
-
-Para iniciar o servidor de desenvolvimento:
-
-npm run dev
-
-A aplicação estará disponível em http://localhost:3000.
-
-
-✉ Contato
-
-LinkedIn: Guilhermesfreitass
-
-Email: guilhermefreitasea@gmail.com
-
-Espero que essa documentação facilite a compreensão e uso do projeto. Qualquer sugestão de melhoria, estou à disposição! 🚀
-
+---
